@@ -4,6 +4,8 @@ Newcomer Data Analyst from Brazil
 
 This is the place i come to learn 👨‍🎓
 
+Completed the Coursera IBM Data Analyst course 🤓
+
 I am currently working as a freelance Data Analyst 📈📊
 
 Absolutly interested in talking about Python🐍 ( especially machine learning), SQL, and VBA
