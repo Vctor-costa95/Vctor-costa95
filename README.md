@@ -12,7 +12,11 @@ Absolutly interested in talking about Python🐍 ( especially machine learning),
 
 🤝 I’m looking for help with projects, trying to learn as much as possible 😁
 
-How to talk to me 🗣 https://www.linkedin.com/in/jo%C3%A3o-victor-herculano/ and on E-mail 📩 j.victor.costa95@hotmail.com
+How to talk to me 🗣 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-victor-herculano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-victor-herculano/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/victorcosta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/victorcosta1" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
